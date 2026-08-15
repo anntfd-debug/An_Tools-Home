@@ -1,0 +1,6 @@
+title: CAD Block to Pipe Family
+tooltip: >-
+  Pick a repeated CAD block, place a selected family, raycast upward to pipes,
+  map local pipe center elevation and diameter, and rotate connector BasisZ
+  parallel to the pipe plan direction.
+author: An-Tools
