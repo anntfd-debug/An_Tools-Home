@@ -1,7 +1,0 @@
-title: Place Group\nFrom Link
-tooltip: >-
-  Pick nhiều Revit Link, lọc Family đang hiển thị trong Active View, tạo thử
-  một Group hoặc đặt hàng loạt tại LEFT_FRONT, RIGHT_FRONT, LEFT_BACK,
-  RIGHT_BACK và xoay theo hướng Family. Nút Kiểm tra lưu cache để tạo Group
-  không phải quét lại; progress visibility chỉ đếm Family đã khớp từ khóa.
-author: An-Tools
